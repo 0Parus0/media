@@ -1,18 +1,80 @@
 {
   "users": [
     {
-      "name": "Eunice Reynolds",
-      "id": 6
+      "name": "Jo Kuhic",
+      "id": 7
     },
     {
-      "name": "Derek Hodkiewicz",
+      "name": "Mrs. Margie Ruecker",
       "id": 8
     },
     {
-      "name": "Kari Schulist",
-      "id": 10
+      "name": "Donna Kub",
+      "id": 9
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 7,
+      "title": "Oriental Steel Towels",
+      "id": 24
+    },
+    {
+      "userId": 8,
+      "title": "Handcrafted Soft Fish",
+      "id": 25
+    },
+    {
+      "userId": 7,
+      "title": "Luxurious Steel Computer",
+      "id": 27
+    },
+    {
+      "userId": 8,
+      "title": "Awesome Steel Soap",
+      "id": 29
+    },
+    {
+      "userId": 9,
+      "title": "Practical Cotton Shirt",
+      "id": 30
+    },
+    {
+      "userId": 7,
+      "title": "Recycled Wooden Pizza",
+      "id": 31
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=922032432742400",
+      "id": 1
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8842729920397312",
+      "id": 3
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8635353864863744",
+      "id": 4
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2742247994949632",
+      "id": 7
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2496322053603328",
+      "id": 9
+    },
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2537611493113856",
+      "id": 11
+    }
+  ]
 }
